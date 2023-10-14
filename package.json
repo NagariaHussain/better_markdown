@@ -1,0 +1,15 @@
+{
+  "name": "better_markdown",
+  "version": "1.0.0",
+  "description": "A WYSIWYG Markdown Editor for the desk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@toast-ui/editor": "^3.2.2"
+  }
+}
